@@ -1,16 +1,20 @@
-## Hi there 👋
-
-<!--
-**Pushkar12356788/Pushkar12356788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 Hi, I'm Pushkar Telang
+  
+  
+  📈 Transitioning into the field of data analytics and data science
+  
+  📊 Skilled in Python, SQL, Power BI, and Excel
+  
+  📁 Projects:
+    
+  📺 Netflix Data Analysis Dashboard
+    
+  🚢 Titanic Survival Prediction (Machine Learning)
+  
+  📈 Sales and Revenue Insights using Power BI
+  
+  🎯 Focused on turning raw data into meaningful insights
+  
+  🧠 Learning Business Analytics & Machine Learning
+  
+  📫 Contact: pushkartelang@gmail.com
